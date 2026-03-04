@@ -3,7 +3,6 @@
 # Ejercicio 1: Crea una variable llamada 'nombre' y asígnale tu nombre.
 # Luego, crea una variable llamada 'edad' y asígnale tu edad. Imprime ambas.
 # Escribe tu código debajo de esta línea:
-
 nombre = "Jhonatan"
 edad = 20
 print(nombre, edad)

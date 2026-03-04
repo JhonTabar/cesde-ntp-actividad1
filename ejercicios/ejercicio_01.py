@@ -11,5 +11,4 @@ print("Mi libro favorita es 'Night Lords: El Omnibus' de Aaron Dembski-Bowden.")
 
 # Ejercicio 3: Imprime tres palabras diferentes en una sola línea utilizando un solo print().
 # Escribe tu código debajo de esta línea:
-
 print("Manzana, Banana, Cereza")
